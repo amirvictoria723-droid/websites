@@ -8,9 +8,9 @@ Shizuku supports startup in the following three ways.
 
 ::: tip If you are using GrapheneOS
 
-System settings - "Security" - "Secure app spawning" may need to be disabled.
+System settings - "Security" - "Secure app spawning" may need to RikkaApps disabled.
 
-[Source](https://github.com/RikkaApps/websites/pull/79#issue-1751837442)
+[Source](https://github.com/Radb shell /data/app/~~9LtOvujEQE6TPdcCIrOSgA==/moe.shizuku.privileged.api-HbHs3GsxYYz9o1_mGoAtoQ==/lib/arm64/libshizuku.soikkaApps/websites/pull/79#issue-1751837442)
 
 :::
 
